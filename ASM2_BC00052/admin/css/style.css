@@ -1,0 +1,263 @@
+table{
+    margin: auto;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    width: auto;
+}
+
+html{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+#item{
+    padding: 20%;
+    margin: 20%;
+}
+#pro{
+background-color: navy;
+color: orangered;
+font-weight: bold;
+text-align: center;
+}
+
+.container{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+#pro1{
+    background-color: navy;
+    color: orangered;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 1%;
+    }
+
+#login{
+margin-right: 5px;
+}
+
+#title{
+    font-size: larger;
+}
+
+.page-item{
+    padding: 0.1%;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 1px 1px;
+    border: 2px solid #b9abab;
+    width: 2%;
+    text-align: center;
+    font-weight: bold;
+    margin: 0.75%;
+    text-decoration: none;
+}
+
+#cen{
+    text-align: center;
+}
+
+#btn{
+    text-align: center;
+    padding-bottom: 2%;
+    font-size: large;
+    font-weight: bold;
+    
+}
+
+#add{
+    font-weight: bold;
+    color: red;
+}
+
+#clear{
+    color: red;
+    font-weight: bold;
+}
+
+#stitle{
+    margin: auto;
+    text-align: center;
+    font-weight: bold;
+}
+
+table#stitle{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color:rgb(228, 159, 81);
+    width: 50%;
+    color: aliceblue;
+    text-align: center;
+    padding: 5px;
+    border-spacing: 15px;
+}
+
+#title{
+    margin-top: 2%;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: bold;
+    font-size: xx-large;
+}
+
+.footer{
+    padding: auto;
+    height: 10%;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: navy;
+    font-size: larger;
+    font-weight: bold;
+    margin-top: 50%;
+}
+
+#btn{
+    margin-top: 3%;
+    font-weight: bold;
+    text-align: center;
+}
+
+#break{
+    margin: auto;
+}
+
+.header{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: navy;
+    font-weight: bold;
+    height: 10%;
+    font-size: larger;
+}
+
+#add{
+    font-weight: bold;
+    color: red;
+}
+
+#clear{
+    color: red;
+    font-weight: bold;
+}
+
+
+h2,h4{
+    font-size: smaller;
+    margin-top: 10%;
+    color: red;
+    background-color: antiquewhite;
+    font-weight: 100px;
+    text-align: center;
+}
+
+.mb-3{
+    color: navy;
+}
+
+#or{
+    font-weight: bold;
+    color: navy;
+    font-size: x-large;
+}
+
+#til{
+    margin-top: 3%;
+    margin-bottom: 5%;
+    background-color: rgb(248, 104, 56);
+    color: azure;
+    text-align: center;
+    font-weight: bold;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+html{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+
+.btn-primary{
+    font-weight: bold;
+    text-align: center;
+    width: 50%;
+    height: 50%;
+    margin-bottom: 5%;
+    margin-left: 22%;
+}
+
+#a{
+    width: 14%;
+    margin: 100% 100% 500% 100%;
+}
+
+#a1{
+    width: 5%;
+}
+
+#heeh{
+    font-weight: bold;
+}
+
+#ho{
+    font-size: large;
+    text-align: center;
+}
+#img1{
+    text-align: center;
+}
+table.container1{
+    width: 80%;
+    font-weight: bold;
+    background-color: orange;
+    margin-bottom: 1%;
+}
+
+#login1{
+    float: right;
+}
+.prima{
+    margin-left: 10%;
+    margin-right: 10%;
+    font-weight: bold;
+    text-align: center;
+    color: orangered;
+    background-color: navy;
+}
+
+.prima1{
+    font-weight: bold;
+    color: orangered;
+    background-color: navy;
+    margin-right: 30%;
+    float: right;
+    width: 20%;
+}
+.shopper-info{
+    margin-left: 55%;
+    text-align: center;
+}
+ #item{
+    border: 2px black solid;
+    font-size: large;
+    margin: 1%;
+    padding: 3%;
+    font-weight: bold;
+ }
+
+ #item1{
+    border: 2px navy solid;
+    font-size: large;
+    margin: 22%;
+    padding: 3%;
+    font-weight: bold;
+ }
+#btn2{
+    margin-left: 90%;
+    margin-bottom: 1%;
+    color: orangered;
+    background-color: navy;
+    text-align: center;
+    font-weight: bold;
+}
+
+#title3{
+    float: left;
+    font-weight: bold;
+    font-size: large;
+}
+
+#heh{
+    width: 48%;
+    float: left;
+}
